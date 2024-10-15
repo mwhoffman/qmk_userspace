@@ -1,6 +1,7 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["massdrop/ctrl", "mwhoffman"]
+        ["massdrop/ctrl", "mwhoffman"],
+        ["input_club/whitefox", "mwhoffman"]
     ]
 }
